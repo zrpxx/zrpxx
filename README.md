@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/zrpxx/zrpxx/blob/main/banner.png)
 
-## Who am I?
-
+## Who am I? 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courgette&color=%23DDDDDD&vCenter=true&lines=I+am+Trevor+Zhang.;I+am+a+student+of+SSE%2C+BJTU.;I+am+a+full-stack+developer.)](https://git.io/typing-svg)
  ```python
   class WhoAmI:
     username = 'Trevor Zhang'
