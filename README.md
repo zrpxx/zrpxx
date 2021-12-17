@@ -6,7 +6,7 @@
   class WhoAmI:
     username = 'Trevor Zhang'
     current_edu = "BJTU"
-    currently_learning = ["Golang", "TypeScript", "Machine Learning"]
+    currently_learning = ["Golang", "TypeScript", "Machine Learning", "k8s"]
     fun_fact = "I hate Chillies"
     hobbies = [
       'Soccer',
@@ -63,6 +63,8 @@
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis%20-%23DC382D.svg?logo=redis&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba%20Cloud-%23FF6A00.svg?logo=alibabacloud&logoColor=white"></a>
@@ -72,6 +74,8 @@
 ## Software and Tools
 <p>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?logo=rabbitmq&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="JetBrains Suite" src="https://img.shields.io/badge/JetBrains%20Suite%20-%23000000.svg?logo=jetbrains&logoColor=white"></a>
 </p>
