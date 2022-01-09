@@ -31,7 +31,7 @@
 ![Github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zrpxx&layout=compact&theme=github_dark)
 
 ## Leetcode Stats (primary stage)
-![Leetcode_stats](https://stats.justsong.cn/api/leetcode/?username=Trevor_Z)
+![Leetcode_stats](https://stats.justsong.cn/api/leetcode/?username=Trevor_Z&theme=dark)
 
 ## Programming Languages
 <p>
