@@ -30,6 +30,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zrpxx&show_icons=true&count_priv=true&theme=github_dark)
 ![Github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zrpxx&layout=compact&theme=github_dark)
 
+## Leetcode Stats (primary stage)
+![Leetcode_stats](https://stats.justsong.cn/api/leetcode/?username=Trevor_Z)
+
 ## Programming Languages
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
