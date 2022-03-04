@@ -6,7 +6,8 @@
   class WhoAmI:
     username = 'Trevor Zhang'
     current_edu = "BJTU"
-    currently_learning = ["IELTS", "React", "TypeScript", "Machine Learning", "k8s"]
+    IELTS_overall_band = 8
+    currently_learning = ["React", "TypeScript", "Machine Learning", "k8s"]
     fun_fact = "I hate chillies"
     hobbies = [
       'Soccer',
