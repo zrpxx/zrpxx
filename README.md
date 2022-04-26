@@ -5,6 +5,7 @@
  ```python
   class WhoAmI:
     username = 'Trevor Zhang'
+    current_work="Youdao | NetEase, Inc."
     current_edu = "BJTU"
     ielts_overall_band = 8
     currently_learning = ["React", "TypeScript", "Machine Learning", "k8s"]
