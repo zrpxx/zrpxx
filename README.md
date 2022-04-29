@@ -92,7 +92,7 @@
   <a href="https://zrp.cool"><img alt="Website" title="Trevor Zhang Personal website" src="https://img.shields.io/badge/Web-005A9C?style=for-the-badge&logo=w3c&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:me@zrp.cool"><img alt="Gmail" title="Trevor Zhang email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:me@zrp.cool"><img alt="Email" title="Trevor Zhang email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/zrpxx"><img alt="Telegram" title="Trevor Zhang Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 </p>
 
