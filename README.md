@@ -29,8 +29,8 @@
 
  
 ## Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=zrpxx&show_icons=true&count_priv=true&theme=github_dark)
-![Github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zrpxx&layout=compact&theme=github_dark)
+![Github stats](https://github-readme-stats.zohan.tech/api?username=zrpxx&show_icons=true&count_priv=true&theme=github_dark)
+![Github language stats](https://github-readme-stats.zohan.tech/api/top-langs/?username=zrpxx&layout=compact&theme=github_dark)
 
 ## Programming Languages
 <p>
