@@ -34,6 +34,9 @@
 ![Github stats](https://github-readme-stats.zohan.tech/api?username=zrpxx&show_icons=true&count_private=true&theme=github_dark)
 ![Github language stats](https://github-readme-stats.zohan.tech/api/top-langs/?username=zrpxx&count_private=true&layout=compact&theme=github_dark)
 
+## Leetcode Stats
+![Leetcode stats](https://leetcard.jacoblin.cool/trevor_z?theme=light&font=Noto%20Sans&ext=activity&site=cn)
+
 ## Programming Languages
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
