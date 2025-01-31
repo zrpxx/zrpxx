@@ -11,6 +11,7 @@
     currently_learning = ["Mathmatics for Machine Learning", "Deep Learning", "Linkerd"]
     fun_fact = "I hate chillies"
     hobbies = [
+      'Chinese Billiards / Snooker'
       'Soccer',
       'Chilling',
       'Gaming',
@@ -102,7 +103,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.cn/injobs/in/%E6%BF%A1%E8%8A%83-%E5%BC%A0-8321261a4"><img alt="Linkedin" title="Trevor Zhang Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/zrpxx"><img alt="Github" title="Trevor Zhang Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=RRLczYgAAAAJ&hl=zh-CN"><img alt="Google Scholar Profile" title="Trevor Zhang Google Scholar Profile" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
   <a href="https://zrp.cool"><img alt="Website" title="Trevor Zhang Personal Website" src="https://img.shields.io/badge/Website-005A9C?style=for-the-badge&logo=w3c&logoColor=white"></a>
  </p>
  <p align="center">
@@ -113,4 +114,4 @@
 ------
 [Trevor Zhang](https://github.com/zrpxx)
 
-Last Edited on - 2023/08/22
+Last Edited on - 2025/01/31
