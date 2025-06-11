@@ -5,10 +5,11 @@
  ```python
   class WhoAmI:
     username = 'Trevor Zhang'
-    # current_work="Youdao | NetEase, Inc."
+    current_work = "Siemens AG."
+    # current_work="Youdao | NetEase, Inc." # 2022.04 - 2023.04
     current_edu = "UCAS & ISCAS"
     ielts_overall_band = 8
-    currently_learning = ["Mathmatics for Machine Learning", "Deep Learning", "Linkerd"]
+    currently_learning = ["Agent", "RAG", "Linkerd"]
     fun_fact = "I hate chillies"
     hobbies = [
       'Chinese Billiards / Snooker'
@@ -25,9 +26,7 @@
     def get_ambitions():
       finish_all_my_projects()
       publish_papers()
-      become_a_fullstack_software_engineer()
-      
-      
+      become_a_fullstack_software_engineer()  
  ```
 
  
@@ -114,4 +113,4 @@
 ------
 [Trevor Zhang](https://github.com/zrpxx)
 
-Last Edited on - 2025/01/31
+Last Edited on - 2025/06/11
