@@ -5,7 +5,7 @@
  ```python
   class WhoAmI:
     username = 'Trevor Zhang'
-    current_work = "Siemens AG."
+    # current_work = "Siemens AG." # 2025.06 - 2025.10
     # current_work="Youdao | NetEase, Inc." # 2022.04 - 2023.04
     current_edu = "UCAS & ISCAS"
     ielts_overall_band = 8
