@@ -10,7 +10,7 @@
     current_edu = "UCAS & ISCAS"
     ielts_overall_band = 8
     currently_learning = ["Agent", "RAG", "Linkerd"]
-    fun_fact = "I hate chillies"
+    fun_fact = "I hate carrots"
     hobbies = [
       'Chinese Billiards / Snooker'
       'Soccer',
