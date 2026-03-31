@@ -5,11 +5,12 @@
  ```python
   class WhoAmI:
     username = 'Trevor Zhang'
+    current_work = "CSIG | Tencent"
     # current_work = "Siemens AG." # 2025.06 - 2025.10
     # current_work="Youdao | NetEase, Inc." # 2022.04 - 2023.04
     current_edu = "UCAS & ISCAS"
     ielts_overall_band = 8
-    currently_learning = ["Agent", "RAG", "Linkerd"]
+    currently_learning = ["Agent", "RLVR"]
     fun_fact = "I hate carrots"
     hobbies = [
       'Chinese Billiards / Snooker'
@@ -26,16 +27,13 @@
     def get_ambitions():
       finish_all_my_projects()
       publish_papers()
-      become_a_fullstack_software_engineer()  
+      become_a_fullstack_ai_engineer()  
  ```
 
  
 ## Github Stats
 ![Github stats](https://github-readme-stats.zohan.tech/api?username=zrpxx&show_icons=true&count_private=true&theme=github_dark)
 ![Github language stats](https://github-readme-stats.zohan.tech/api/top-langs/?username=zrpxx&count_private=true&layout=compact&theme=github_dark)
-
-## Leetcode Stats
-![Leetcode stats](https://leetcard.jacoblin.cool/trevor_z?theme=light&font=Noto%20Sans&ext=activity&site=cn)
 
 ## Programming Languages
 <p>
